@@ -3,9 +3,9 @@ import Children from "./components/Children/CenteredCard";
 
 function App() {
   const test = {
-    child1: "Rodrigo",
-    child2: "Julio",
-    child3: "Astrogilda",
+    child1: "Children 1",
+    child2: "Children 2",
+    child3: "Children 3",
   };
 
   return (
