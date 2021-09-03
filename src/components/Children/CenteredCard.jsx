@@ -1,9 +1,9 @@
 import "./children.css";
 
-const Children = ({ children1 }) => {
+const Children = ({ children }) => {
   return (
     <div className="deadOf">
-      <span>{children1}</span>
+      <span>{children}</span>
     </div>
   );
 };
